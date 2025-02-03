@@ -6,8 +6,6 @@ Gen-AI Implementation Strategist | Aspiring Data & Cloud Engineer | Automated Tr
 
 I am an AI-driven innovator specializing in Generative AI implementation, data automation, and intelligent financial systems. With a passion for AI-powered automation, cloud technologies, and data engineering, I focus on transforming business operations, financial modeling, and algorithmic trading systems using cutting-edge AI techniques.
 
-**🌍  I'm based in Bangkok, Thailand**
-
 ## **My Expertise & Focus Areas:**
 * ✅ **Gen-AI Implementation & Workflow Automation** – Developing AI-powered automation frameworks with CoT & ToT prompting, focusing on structured reasoning and AI-driven decision systems across industries.
 * ✅ **Cloud & Data Engineering for AI** – Implementing scalable AI infrastructure with data pipelines and cloud deployments, ensuring seamless AI adoption in finance and business automation.
@@ -55,17 +53,4 @@ I am an AI-driven innovator specializing in Generative AI implementation, data a
 #### **🗄️ Databases**
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL - Relational Database" style="margin-right: 15px;"/></a>
-</p>
-
-## **🌐 Connect With Me**
-
-* ✉️  You can contact me at [puriwat.ath@gmail.com](mailto:puriwat.ath@gmail.com)
-
-<p align="left"> 
-  <a href="https://www.github.com/PuriwatATH" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" />
-  </a> 
-  <a href="https://www.linkedin.com/in/puriwatathichoktanaparn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
-  </a>
 </p>
