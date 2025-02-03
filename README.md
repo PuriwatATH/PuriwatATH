@@ -4,27 +4,68 @@ Hi 👋 My name is Puriwat Athichoktanaparn
 Gen-AI Implementation Strategist | Aspiring Data & Cloud Engineer | Automated Trading Innovator
 -----------------------------------------------------------------------------------------------
 
-I am an AI-driven innovator specializing in Generative AI implementation, data automation, and intelligent financial systems. With a passion for AI-powered automation, cloud technologies, and data engineering, I focus on transforming business operations, financial modeling, and algorithmic trading systems using cutting-edge AI techniques. 🔹 My Expertise & Focus Areas:
-* ✅ Gen-AI Implementation & Workflow Automation – Designing and deploying LLM-powered automation frameworks, leveraging prompt engineering, Chain-of-Thought (CoT), and Tree-of-Thought (ToT) prompting for structured AI reasoning and complex decision-making.
-* ✅ Aspiring Data & Cloud Engineer – Exploring cloud-based AI deployments, data pipeline optimization, and scalable AI infrastructure to ensure seamless AI integration into business workflows.
-* ✅ Automated Trading & Financial AI Solutions – Innovating AI-powered trading models, algorithmic trading automation, and risk assessment systems, optimizing financial decision-making using machine learning & real-time data processing.
-* ✅ AI-Driven Business Optimization – Implementing AI-enhanced process automation, improving enterprise AI adoption, strategic planning, and intelligent decision support systems.
+I am an AI-driven innovator specializing in Generative AI implementation, data automation, and intelligent financial systems. With a passion for AI-powered automation, cloud technologies, and data engineering, I focus on transforming business operations, financial modeling, and algorithmic trading systems using cutting-edge AI techniques.
 
-🔹 My Vision & Passion: 💡 I am committed to leveraging AI to drive intelligent automation, enhance data-driven decision-making, and innovate within the financial and cloud engineering sectors. Through self-learning, experimentation, and real-world AI applications, I aim to bridge the gap between Generative AI, cloud computing, and data engineering to create scalable, high-impact solutions. 🚀 I believe in the power of AI-driven transformation and continuously seek opportunities to apply emerging AI technologies to optimize trading, automate workflows, and enhance enterprise intelligence.
+**🌍  I'm based in Bangkok, Thailand**
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [puriwat.ath@gmail.com](mailto:puriwat.ath@gmail.com)
-* 🧠  I'm learning Aspiring Data & Cloud Engineer – Exploring business AI implementation, automated AI pipelines, and AI Agentic Systems to optimize workflow automation, financial AI solutions, and enterprise decision intelligence. Currently learning how to integrate AI models into cloud-based infrastructures, focusing on scalable AI deployment, serverless computing, and real-time data pipelines for seamless AI adoption in business workflows.
-* 🤝  I'm open to collaborating on AI-driven projects, automated trading systems, data & cloud engineering solutions, and AI-powered business transformations.
+## **My Expertise & Focus Areas:**
+* ✅ **Gen-AI Implementation & Workflow Automation** – Developing AI-powered automation frameworks with CoT & ToT prompting, focusing on structured reasoning and AI-driven decision systems across industries.
+* ✅ **Cloud & Data Engineering for AI** – Implementing scalable AI infrastructure with data pipelines and cloud deployments, ensuring seamless AI adoption in finance and business automation.
+* ✅ **AI-Enhanced Trading & Financial Intelligence** – Building automated trading models with AI-powered risk management, quantitative finance models, and real-time decision-support analytics.
+* ✅ **AI Adoption & Business Process Innovation** – Driving enterprise AI transformation, integrating AI agents into workflow automation, and optimizing decision-making frameworks.
 
-### Skills
+## **My Vision & Passion**
+* 💡 I am passionate about pioneering AI-driven business transformation by integrating intelligent automation into decision-making, financial AI systems, and enterprise optimization. I continuously explore, experiment, and innovate with Generative AI, leveraging advanced automation strategies to create scalable real-world solutions.
+* 🚀 My goal is to bridge AI with business strategy, ensuring that AI-powered systems drive efficiency, innovation, and data-driven decision intelligence.
 
+## **Current Learning (Updated: Feb 2025)**
+* ✅ **AWS Cloud Engineering & Infrastructure** – Studying AWS fundamentals via Coursera, covering cloud computing, migration strategies, and architecting cloud solutions for scalable infrastructure.
+* ✅ **Applied Data Science** – Enrolled in WorldQuant University’s rigorous Data Science Lab, focusing on data wrangling, model-building, and deploying comprehensive analytics.
+* ✅ **Data Engineering & AI/ML Applications** – Advancing skills in DataCamp courses on Data Pipelines, Machine Learning Operations (MLOps), and AI-driven data processing for automation.
 
+## 🚀 Tech Stack & Skills
+
+#### **🖥️ Programming Languages**
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" title="Java - OOP & Backend Development" style="margin-right: 15px;"/></a> 
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" title="Python - AI, ML, and Data Engineering" style="margin-right: 15px;"/></a> 
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" alt="MATLAB" title="MATLAB - Numerical Computing & Simulations" style="margin-right: 15px;"/></a> 
+  <a href="https://www.mql5.com/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" width="50" height="50" alt="MQL5" title="MQL5 - Algorithmic Trading & Financial Analysis" style="margin-right: 15px;"/></a>
 </p>
 
+#### **🌐 Web Development**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" title="HTML5 - Web Structure & Markup" style="margin-right: 15px;"/></a> 
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" title="CSS3 - Styling & Design" style="margin-right: 15px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" title="JavaScript - Frontend Development & Dynamic Web Pages" style="margin-right: 15px;"/></a>
+</p>
 
-### Socials
+#### **☁️ Cloud & DevOps**
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="AWS" title="Amazon Web Services (AWS) - Cloud Computing & Deployment" style="margin-right: 15px;"/></a> 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" title="Git - Version Control & Collaboration" style="margin-right: 15px;"/></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/PuriwatATH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/puriwatathichoktanaparn/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+#### **🤖 AI & Machine Learning**
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch - Deep Learning Framework" style="margin-right: 15px;"/></a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask" title="Flask - Web Framework for Python AI APIs" style="margin-right: 15px;"/></a>
+</p>
+
+#### **🗄️ Databases**
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL - Relational Database" style="margin-right: 15px;"/></a>
+</p>
+
+## **🌐 Connect With Me**
+
+* ✉️  You can contact me at [puriwat.ath@gmail.com](mailto:puriwat.ath@gmail.com)
+
+<p align="left"> 
+  <a href="https://www.github.com/PuriwatATH" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" />
+  </a> 
+  <a href="https://www.linkedin.com/in/puriwatathichoktanaparn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
+  </a>
+</p>
