@@ -75,11 +75,15 @@ If you're working on:
 
 ---
 
-> 🧭 I don’t chase buzzwords. I build **quant-grade software with performance, clarity, and real-world integration.**"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch - Deep Learning Framework" style="margin-right: 15px;"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask" title="Flask - Web Framework for Python AI APIs" style="margin-right: 15px;"/></a>
+<p>
+  🧭 I don’t chase buzzwords. I build quant-grade software with performance, clarity, and real-world integration.<br />
 </p>
 
-#### **🗄️ Databases**
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL - Relational Database" style="margin-right: 15px;"/></a>
-</p>
+## ⚒️ Tech Stack
+
+These are the main tools I use for backend quant development:
+
+- 🐍 Python (Data manipulation, scripting, backend APIs)
+- 🧱 Django + FastAPI (Web backend + async API services)
+- 🧠 Redis + PostgreSQL (Fast data access + persistent storage)
+- 🧪 Pytest, Docker, Git, CI/CD (for clean deployment)
