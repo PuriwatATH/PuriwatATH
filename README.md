@@ -15,15 +15,17 @@ From managing 100M+ THB in AUM as a licensed Investment Planner to designing PLC
 
 ## 🚀 Projects & Core Work
 
-### 🧠  — *Real-time Quant Trading Simulator*
-A full-stack simulation platform for traders and quant developers to test strategies in live-like conditions.
+### [PQTradePlatform – Real-Time Quant Trading Simulator]
 
-- 🔒 **Backend**: Django + FastAPI with custom middleware (Idempotency, JWT Session Tokens, ErrorHandler)
-- 🔄 **Execution Engine**: WebSocket + Redis for real-time updates, SL/TP logic, and PnL calculations
-- 📊 **Frontend**: React + Tailwind SPA with separate Trader / Admin / Investor (Observer Mode) views
-- 🐳 **DevOps**: Dockerized, tested, and deployed with Git workflows
+A full-stack simulation platform to design, test, and visualize trading strategies under live-like market conditions.  
+Built with Django, FastAPI, Redis, WebSockets, and React — featuring:
 
-> ✅ Designed for performance (sub-100ms API latency) and modularity (separated layers for auth, trading logic, and PnL)
+- Modular APIs, token-based auth, and execution lifecycle automation
+- Real-time market engine with bid/ask spread simulation and OHLC feeds
+- Secure portfolio session handling and role-based dashboard UI
+- Live demo: [www.pqtrades.com](https://www.pqtrades.com)
+
+📖 [View Full Project →] [(github.com/PuriwatATH/PQTradePlatform)](https://github.com/PuriwatATH/pqtrades-showcase)
 
 ---
 
